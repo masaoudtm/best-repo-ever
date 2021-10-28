@@ -3,5 +3,4 @@ This is a test README File
 
 This is the second new addition
 
-CONFLICT HERE
-
+Merged the conflict and put the final stuff here
